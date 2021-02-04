@@ -31,7 +31,7 @@
         "type": "Looking for career opportunities at PlayStation? PlayStation is hiring people for various job listings. Explore PlayStation job openings, work ethics, career benefits and much more. Apply Now!",
         "location": "180 King St S, Waterloo, ON N2J 1P8, Canada",
         "facts": "Right across the Waterloo Adult Recreation Centre.",
-        "imageCaption": "SIE Waterloo Campus",
+        "imageCaption": "Building seen from outside the SIE Waterloo office",
         "imageUrl": "https://geo1.ggpht.com/cbk?panoid=RsrLl8JFugtzBmuQjU9WMg&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=32.660004&pitch=0&thumbfov=100",
         "imageCopyright": "Image from Google Images",
         "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -55,7 +55,7 @@
         "type": "Not only does each of us work together to bring incredible PlayStation experiences to life for players across the world, but we have the great fortune of doing this work alongside dedicated, creative, talented people from every walk of life. All of us share the goal of making PlayStation the best place to play. - Jim Ryan",
         "location": "Wilhelmstraße 118, 10963 Berlin, Germany",
         "facts": "In an office building on Wilhelmstraße",
-        "imageCaption": "SIE Berlin Office",
+        "imageCaption": "Building seen from outside the SIE Berlin office",
         "imageUrl": "https://geo0.ggpht.com/cbk?panoid=1azQTcL6VVn5VuSBRcgekQ&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=252.81671&pitch=0&thumbfov=100",
         "imageCopyright": "Image from Google Images",
         "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -103,7 +103,7 @@
         "type": "By building a culture of creativity and innovation, we are not only encouraging major companies to South Australia, we are giving young students who want to work in this field the ability to stay here in SA and not have to travel interstate for these types of exciting opportunities.",
         "location": "75 Hindmarsh Square, Adelaide SA 5000, Australia",
         "facts": "Located across a small park in Hindmarsh Square.",
-        "imageCaption": "SIE Australia Office",
+        "imageCaption": "Image of the outside ground level of SIE Berlin's office",
         "imageUrl": "https://geo3.ggpht.com/maps/photothumb/fd/v1?bpb=ChEKD3NlYXJjaC5nd3MtcHJvZBJAChIJHTvIONHOsGoRaJFNPgtRg4kSCg0o1S7rFV5znVIaEgn1-VR90c6wahGL6Gt1YcI1sioKDabULusVEmWdUhoGCPABEJgD&gl=US",
         "imageCopyright": "Image from Google Images",
         "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -127,7 +127,7 @@
         "type": "The new organization structure and set up of Asia hub in Singapore will be leading the Asia teams to continuously expand the PlayStation business with their extensive working experience and business knowledge. We have confidence to further reinforce its business and operational strength to continue to spearhead and remain the leader in the constantly evolving business environment.",
         "location": "1 Magazine Rd, #07/07-08, Singapore 059567",
         "facts": "Located in Central Mall next to Qantas Airways.",
-        "imageCaption": "SIE Singapore Office",
+        "imageCaption": "Bottom floor of SIE Singapore's office near airway",
         "imageUrl": "https://geo1.ggpht.com/cbk?panoid=7BNgJVkD11N7VTOg5771RQ&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=119.161934&pitch=0&thumbfov=100",
         "imageCopyright": "Image from Google Images",
         "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -151,7 +151,7 @@
         "type": "Sony London Studio is leading the charge in building AAA VR games—our vision is to become the World’s Best AAA VR Games Developer—and, with our most recent release, Blood & Truth, we’ve taken a bold step forward towards this ambitious vision.",
         "location": "Great Marlborough St, Soho, London W1F 7HR, United Kingdom",
         "facts": "Located on Great Marlborough Street",
-        "imageCaption": "London Studios",
+        "imageCaption": "Street view of London Studios",
         "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOLtFnAE5Ikx4rwmpyXcOKAXpLHKbVju9GfnE3t=w408-h306-k-no",
         "imageCopyright": "Image from Google Images",
         "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
@@ -171,24 +171,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Point Nemo",
-        "type": "Most distant point from land ○ 2,688 km (1,670 mi) from the nearest land",
-        "location": "South Pacific Ocean",
-        "facts": "The oceanic pole of inaccessibility was officially discovered in 1992 by survey engineer Hrvoje Lukatela. The pole has been nicknamed Point Nemo, after author Jules Verne's famous Captain Nemo. The name also means \"no-one\" in Latin, which is fitting because Point Nemo is so far from land, that the nearest humans are often astronauts. The International Space Station orbits the Earth at a maximum of 258 miles (416 km), meanwhile the nearest landmass is Ducie Island, an uninhabited atoll in the Pitcairn Islands, over 1,670 miles (2,700 km) away.",
-        "imageCaption": "Ducie Atoll, closest landmass to Point Nemo",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ducie02_AKK.jpg",
-        "imageCopyright": "Image by Angela K. Kepler under Public Domain",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Ducie_Island#/media/File:Ducie02_AKK.jpg",
-        "source": "Pole of inaccessibility Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+        "name": "Insomniac Games",
+        "type": "Sony Spent $229 Million To Acquire Insomniac Games, Developer Of 'Ratchet & Clank' And 'Spider-Man",
+        "location": "7806 NC-751 #300, Durham, NC 27713",
+        "facts": "Located across the street of Fairfield Marriott",
+        "imageCaption": "Building seen from outside Insomniac Games",
+        "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNExvYoEnEdg5zR8YsfzX8mWKGkgr8grHxawznh=w408-h272-k-no",
+        "imageCopyright": "Image from Google Images",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikipedia Sony Interactive Entertainment",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PlayStation",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.393333,
-          -48.876667
+          -78.96024,
+          35.90240
         ]
       }
     }
