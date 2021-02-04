@@ -27,24 +27,24 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Challenger Deep",
-        "type": "Lowest known point on Earth ○ 11,034 m (36,201 ft) below sea level",
-        "location": "At the bottom of the Mariana Trench in the western Pacific Ocean.",
-        "facts": "The first people to reach the ocean floor in the trench were Swiss oceanographer and engineer Jacques Piccard and U.S. Navy Lieutenant Don Walsh. They descended on board of Trieste Bathyscaphe, a submersible designed by Jacques Piccard and his father.",
-        "imageCaption": "Bathyscaphe Trieste",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bathyscaphe_Trieste.jpg",
+        "name": "SIE Waterloo Office",
+        "type": "Looking for career opportunities at PlayStation? PlayStation is hiring people for various job listings. Explore PlayStation job openings, work ethics, career benefits and much more. Apply Now!",
+        "location": "180 King St S, Waterloo, ON N2J 1P8, Canada",
+        "facts": "Right across the Waterloo Adult Recreation Centre.",
+        "imageCaption": "SIE Waterloo Campus",
+        "imageUrl": "https://geo1.ggpht.com/cbk?panoid=RsrLl8JFugtzBmuQjU9WMg&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=32.660004&pitch=0&thumbfov=100",
         "imageCopyright": "Bathyscaphe Trieste image under Public Domain",
         "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Public_domain",
-        "source": "Wikipedia Challenger Deep article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Challenger_Deep",
+        "source": "Wikipedia Sony Interactive Entertainment",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PlayStation",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.591667,
-          11.374300
+          43.46086,
+          -80.51928
         ]
       }
     },
