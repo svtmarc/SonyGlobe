@@ -33,8 +33,8 @@
         "facts": "Right across the Waterloo Adult Recreation Centre.",
         "imageCaption": "SIE Waterloo Campus",
         "imageUrl": "https://geo1.ggpht.com/cbk?panoid=RsrLl8JFugtzBmuQjU9WMg&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=32.660004&pitch=0&thumbfov=100",
-        "imageCopyright": "Bathyscaphe Trieste image under Public Domain",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Public_domain",
+        "imageCopyright": "Image from Google Images",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
         "source": "Wikipedia Sony Interactive Entertainment",
         "sourceUrl": "https://en.wikipedia.org/wiki/PlayStation",
         "sourceCopyright": "CC BY-SA 3.0",
@@ -53,13 +53,13 @@
       "properties": {
         "name": "Ojos del Salado",
         "type": "Highest active volcano summit ○ 6,061 m (22,838 ft)",
-        "location": "In the Andes on the Argentina-Chile border.",
-        "facts": "The name of the mountain means <em>Eyes of the Salty One</em> in Spanish and it comes from the enormous deposits of salt that, in the form of lagoons or 'eyes', appear in its glaciers.",
-        "imageCaption": "Ojos del Salado volcano looming on the horizon",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ojos_del_Salado_looming_big_on_the_horizon.jpg",
-        "imageCopyright": "Image by Jespinos under CC BY-SA 2.0",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Ojos_del_Salado#/media/File:Ojos_del_Salado_looming_big_on_the_horizon.jpg",
-        "source": "Ojos del Salado wikipedia article",
+        "location": "Wilhelmstraße 118, 10963 Berlin, Germany",
+        "facts": "In an office building on Wilhelmstraße",
+        "imageCaption": "SIE Berlin Office",
+        "imageUrl": "https://geo0.ggpht.com/cbk?panoid=1azQTcL6VVn5VuSBRcgekQ&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=252.81671&pitch=0&thumbfov=100",
+        "imageCopyright": "Image from Google Images",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikipedia Sony Interactive Entertainment",
         "sourceUrl": "https://en.wikipedia.org/wiki/Ojos_del_Salado",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
@@ -67,8 +67,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.541389,
-          -27.109722
+          13.38598,
+          52.50392
         ]
       }
     },
