@@ -75,24 +75,24 @@
      {
       "type": "Feature",
       "properties": {
-        "name": "La Rinconada",
-        "type": "The highest permanent human settlement ○ 5,100 m (16,732 ft)",
-        "location": "Located in the Andes in Peru",
-        "facts": "The town is situated next to a gold mine, so the economy is mainly based on the extraction and production of gold, many artisanal. Between 2001 and 2009, the population increased to 30,000 people from just a small gold prospector camp because the price of gold rose 235% over that period.",
-        "imageCaption": "View of La Rinconada",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/La_Rinconada_Peru.jpg",
-        "imageCopyright": "Image by Hildegard Willer under CC BY-SA 4.0",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru#/media/File:La_Rinconada_Peru.jpg",
-        "source": "La Rinconada, Peru Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru",
+        "name": "Sony City",
+        "type": "Headquarters move from TK Minami Aoyama Bldg. to Sony City (in Konan, Minato-ku, Tokyo)",
+        "location": "Located in Konan, Minato City, Tokyo 108-0075, Japan",
+        "facts": "The building in was completed in 2006",
+        "imageCaption": "View Sony City",
+        "imageUrl": "https://www.asiafundmanagers.com/wp-content/uploads/2020/02/Sony-headquarter_Sony_Aktie_Calin-Stan-Shutterstock.com_.jpg",
+        "imageCopyright": "Image by Calin Stan / Shutterstock.com",
+        "imageCopyrightUrl": "https://www.shutterstock.com/g/calinstan",
+        "source": "History of Sony Interactive Entertainment",
+        "sourceUrl": "https://www.sie.com/en/corporate/history.html",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.445833,
-          -14.6325
+          139.7407448,
+          35.6277961
         ]
       }
     },
