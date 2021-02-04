@@ -1,14 +1,13 @@
 {
   "type": "FeatureCollection",
-  "features": [{
       "type": "Feature",
       "properties": {
-        "name": "Mount Everest",
-        "type": "Highest point on Earth's surface ○ 8,848m (29,029ft)",
-        "location": "Peak located in the Mahalangur Himal sub-range of the Himalayas on the border of Nepal and China.",
-        "facts": "An expedition in 1924 resulted in one of the greatest mysteries on Everest to this day: George Mallory and Andrew Irvine made a final summit attempt on 8 June but never returned, sparking debate as to whether or not they were the first to reach the top. They had been spotted high on the mountain that day but disappeared in the clouds, never to be seen again, until Mallory's body was found in 1999 at 8,155 m (26,755 ft) on the north face. Officially, the peak was first reached by Sir Edmund Hillary of New Zealand and Sherpa of Nepal Tenzing Norgay in 1953.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Everest_kalapatthar.jpg",
-        "imageCaption": "Mount Everest from Kalapatthar",
+        "name": "Sony Interactive Entertainment LLC (Headquarter)",
+        "type": "Rated a 4.1 Star through 238 Google reviews",
+        "location": "2207 Bridgepointe Pkwy, San Mateo, CA 94404",
+        "facts": "Questions for the location: Anony: How do you make the ps4? James Joy answered 'Wizards & Cash Money!''",
+        "imageUrl": "https://gmedia.playstation.com/is/image/SIEPDC/ps-environment-san-mateo-office-image-block-01-en-17aug20?$1600px$",
+        "imageCaption": "Headquarter of Sony Interactive Entertainment LLC",
         "imageCopyright": "Image by Pavel Novack under CC BY-SA2.5",
         "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
         "source": "Wikipedia Mount Everest article",
@@ -19,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          86.925061,
-          27.988271
+          37.5611104,
+          -122.283081
         ]
       }
     },
