@@ -60,7 +60,7 @@
         "imageCopyright": "Image from Google Images",
         "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
         "source": "Wikipedia Sony Interactive Entertainment",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Ojos_del_Salado",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PlayStation",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
@@ -99,48 +99,48 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Baku",
-        "type": "The lowest-lying national capital in the world and also the largest city in the world located below sea level ○ 28m (92ft) below sea level",
-        "location": "Azerbaijan",
-        "facts": "Baku is the capital and largest city of Azerbaijan, as well as the largest city on the Caspian Sea and of the Caucasus region. In 2012 Baku hosted the 57th Eurovision Song Contest and in 2020 it will be one of the host cities for UEFA Euro 2020.",
-        "imageCaption": "A view of the Baku bay",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/A_view_of_the_Baku_bay%2C_Azerbaijan.jpg",
-        "imageCopyright": "Image by Alix Saz under CC BY-SA 4.0",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Baku_Boulevard#/media/File:A_view_of_the_Baku_bay,_Azerbaijan.jpg",
-        "source": "Baku Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Baku",
+        "name": "SIE Australia Office",
+        "type": "By building a culture of creativity and innovation, we are not only encouraging major companies to South Australia, we are giving young students who want to work in this field the ability to stay here in SA and not have to travel interstate for these types of exciting opportunities.",
+        "location": "75 Hindmarsh Square, Adelaide SA 5000, Australia",
+        "facts": "Located across a small park in Hindmarsh Square.",
+        "imageCaption": "SIE Australia Office",
+        "imageUrl": "https://geo3.ggpht.com/maps/photothumb/fd/v1?bpb=ChEKD3NlYXJjaC5nd3MtcHJvZBJAChIJHTvIONHOsGoRaJFNPgtRg4kSCg0o1S7rFV5znVIaEgn1-VR90c6wahGL6Gt1YcI1sioKDabULusVEmWdUhoGCPABEJgD&gl=US",
+        "imageCopyright": "Image from Google Images",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikipedia Sony Interactive Entertainment",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PlayStation",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.882222,
-          40.395278
+          138.60467,
+          -34.92505
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lake Baikal",
-        "type": "World's deepest lake ○ maximum depth of 1,642 m (5,387 ft)",
-        "location": "Southern Siberia, Russia",
-        "facts": "Lake Baikal is the largest freshwater lake by volume in the world, containing 22–23% of the world's fresh surface water. Baikal is home to thousands of species of plants and animals, many of which exist nowhere else in the world. The lake was declared a UNESCO World Heritage Site in 1996. It is also home to Buryat tribes who reside on the eastern side of Lake Baikal, raising goats, camels, cattle, sheep, and horses. The mean temperature varies from a winter minimum of −19 °C (−2 °F) to a summer maximum of 14 °C (57 °F).",
-        "imageCaption": "",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jezioro_Bajka%C5%82_2.jpg",
-        "imageCopyright": "Image by W0zny under CC BY-SA 3.0",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Lake_Baikal#/media/File:Jezioro_Bajkał_2.jpg",
-        "source": "Lake Baikal Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Baikal",
+        "name": "SIE Singapore Office",
+        "type": "The new organization structure and set up of Asia hub in Singapore will be leading the Asia teams to continuously expand the PlayStation business with their extensive working experience and business knowledge. We have confidence to further reinforce its business and operational strength to continue to spearhead and remain the leader in the constantly evolving business environment.",
+        "location": "1 Magazine Rd, #07/07-08, Singapore 059567",
+        "facts": "Located in Central Mall next to Qantas Airways.",
+        "imageCaption": "SIE Singapore Office",
+        "imageUrl": "https://geo1.ggpht.com/cbk?panoid=7BNgJVkD11N7VTOg5771RQ&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=119.161934&pitch=0&thumbfov=100",
+        "imageCopyright": "Image from Google Images",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikipedia Sony Interactive Entertainment",
+        "sourceUrl": "https://en.wikipedia.org/wiki/PlayStation",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.126761,
-          53.607026
+          103.84209,
+          1.28854
         ]
       }
     },
