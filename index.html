@@ -46,7 +46,7 @@
         baseLayers: [
           new TileLayer({
             url: "https://tiles.arcgis.com/tiles/nGt4QxSblgDfeJn9/arcgis/rest/services/terrain_with_heavy_bathymetry/MapServer",
-            copyright: "Hacked by Marc Savet, Aaron Wong, Jimmy Tran, Jhenalyn Bambao"
+            copyright: "Hacked by Marcet Savet, Aaron Wong, Jimmy Tran, Jhenalyn Bambao"
           })
         ]
       });
@@ -166,10 +166,11 @@
           mode: "absolute-height",
           offset: offset
         },
-       renderer: {
+        copyright: "Data from <a href=\"https://https://craft.co/sony/locations\" target=\"_blank\">Craft.co</a>",
+        renderer: {
           type: "simple",
           symbol: {
-            type: "picture-marker",
+            type: "simple",
             url: "img/marker.png"
             width: "64px",
             height: "64px"
@@ -258,14 +259,8 @@
     <div id="introDiv">
       <h1>The Globe of the Sony Headquarter locations</h1>
       <div id="show-intro">
-<<<<<<< HEAD
-        <p> Where are all the Sony locations on the globe?
-=======
-        <p> Where are all the Sony locations on the globe? Ever wondered about the other Sony locations? Fear not, hacking across the world from California, we have brought that to you!
->>>>>>> 52e7c8e818b0a3d1241323a0588abc7a345fa4e2
+        <p> Where are all the Sony locations on the globe? 
         </p>
-        <p> By Marc Savet, Aaron Wong, Jimmy Tran, Jhenalyn Bambao
-        </p>  
         <button id="start-globe">Check our locations</button>
       </div>
       <div id="show-about" class="hidden">
